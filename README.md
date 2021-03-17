@@ -1,3 +1,5 @@
+![USA_Counties.svg](images/USA_Counties.svg)
+
 # USA_Counties.svg
 
 Attribution: U.S. Census Bureau, Public domain, via Wikimedia Commons and https://github.com/trawick/USA_Counties
